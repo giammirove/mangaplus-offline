@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "download": "^8.0.0",
+    "node-fetch": "^3.3.1",
+    "pdfkit": "^0.13.0",
+    "webp-converter": "^2.3.3"
+  },
+  "type": "module"
+}
